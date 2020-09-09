@@ -12,6 +12,7 @@
                        |       KOMIK DEWASA    |
                        |     AUTHOR :MR.ARIS   |
                        |  WHATSAPP:08884196160 |
+                       |  FOLLOW IG : mr_aris9 |   
                        =========================
                                  |    |
                                  |    |\n";
@@ -20,7 +21,10 @@
                     |  SCRIPT RUSAK HUBUNGI ADMIN  |
                     ================================
                     |     RECODE MANDUL HAYYUUKK   |
-                    ================================\n";
+                    ==========================================
+                    | FOLLOW FANSPAGE FACEBOOK=              |
+                    |https://www.facebook.com/komikkamvret07/| 
+                    ==========================================\n";
     echo $green. "
      ====================================================
      |      [   MADLOKI   ]    |     [  CAMPURAN  ]     |
